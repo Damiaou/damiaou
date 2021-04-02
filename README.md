@@ -1,4 +1,4 @@
-### Hello du bateau ⛵
+### Hello du bateau ! ⛵
 I'm a web developer, mainly working on React things
 
 ⚡ Fun fact: I like a lot of outdoor sports, because there are many parameters you can not control and it is spicy !
