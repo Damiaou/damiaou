@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a web developer, mainly working on React things
 
-⚡ Fun fact: I like a lot of outdoor sport, because there are many parameters you can not control and it is spicy !
+⚡ Fun fact: I like a lot of outdoor sports, because there are many parameters you can not control and it is spicy !
 
 <!--
 **Damiaou/damiaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
