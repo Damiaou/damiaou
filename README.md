@@ -1,6 +1,8 @@
 ### Hello du bateau ! ⛵
 I'm a web developer, mainly working on React things
 
+I made an [interactive resume](https://github.com/Damiaou/better-cv) if you want to know more
+
 ⚡ Fun fact: I like a lot of outdoor sports, because there are many parameters you cannot control and it is spicy !
 
 <!--
