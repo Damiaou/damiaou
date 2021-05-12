@@ -1,5 +1,5 @@
 ### Hello du bateau ! ⛵
-I'm a web developer, mainly working on React things
+I'm a web developer, mainly working on React
 
 I made an [interactive resume](https://damien.link) if you want to know more
 
